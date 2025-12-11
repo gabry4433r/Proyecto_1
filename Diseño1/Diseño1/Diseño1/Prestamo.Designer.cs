@@ -101,7 +101,6 @@
             groupBox1.TabIndex = 7;
             groupBox1.TabStop = false;
             groupBox1.Text = "Libro Seleccionado:";
-
             // 
             // btnSeleccionar
             // 
@@ -252,7 +251,7 @@
             btnPrestamorealizado.Name = "btnPrestamorealizado";
             btnPrestamorealizado.Size = new Size(198, 34);
             btnPrestamorealizado.TabIndex = 11;
-            btnPrestamorealizado.Text = "Prestamo Realizado";
+            btnPrestamorealizado.Text = "Realizar Prestamo";
             btnPrestamorealizado.UseVisualStyleBackColor = false;
             // 
             // frmResgirtar
